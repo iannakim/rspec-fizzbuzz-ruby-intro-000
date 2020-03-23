@@ -5,7 +5,7 @@ def fizzbuzz(i)
     puts "Fizz"
   elsif i % 5 == 0
     puts "Buzz"
-  else i !% 3 || 5 == 0
+  else
     puts "nil"
   end
 end
