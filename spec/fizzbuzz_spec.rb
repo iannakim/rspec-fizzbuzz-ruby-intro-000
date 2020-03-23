@@ -1,4 +1,3 @@
-
 require_relative '../fizzbuzz.rb'
 
 describe "fizzbuzz" do
