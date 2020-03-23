@@ -12,4 +12,4 @@ end
 
 fizzbuzz(3)
 fizzbuzz(5)
-fizzbuz(4)
+fizzbuzz(4)
